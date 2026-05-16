@@ -4,4 +4,4 @@ st.title("Proyecto Final Universidad Casa Grande")
 
 st.sidebar.title("Parámetros")
 
-st.image("Python.png")
+st.image("python.png")
